@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://peer-2c0797dc.zappy5.app
+https://example.com
 ברוכים הבאים ל-Peer, חנות בגדים המובילה בעולם האופנה. גלו את המשמעות האמיתית של סטייל אישי עם קולקציות מעודכנות, איכות ללא פשרות ומחירים מפתיעים. היכנסו עכשיו והתחילו לעצב את הלוק שלכם!
 
 ### מדריך סגנון
-https://peer-2c0797dc.zappy5.app/style-guide
+https://example.com/style-guide
 מדריך הסגנון של Peer חושף את סודות האופנה הנכונים לך. למדו איך לשלב פריטים, לבחור צבעים ולהתבלט בכל אירוע עם טיפים מעשיים ממומחי אופנה. התחילו ליצור את ההופעה המושלמת עוד היום!
 
 ### אודות
-https://peer-2c0797dc.zappy5.app/about
+https://example.com/about
 הצטרפו למסע של Peer, חנות בגדים שנולדה מאהבה לאופנה וחדשנות. אנו מעצבים חוויית קנייה ייחודית עם דגש על איכות, קיימות ושירות אישי. גלו את החזון שמניע כל פריט בקולקציה שלנו!
 
 ### צור קשר
-https://peer-2c0797dc.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם צוות Peer עוד היום! בין אם יש לכם שאלות על מידות, משלוחים או ייעוץ סטיילינג, אנחנו כאן כדי להפוך את חוויית הקנייה שלכם למושלמת. שלחו הודעה ונחזור אליכם במהירות!
 
 ### Products
-https://peer-2c0797dc.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Peer
 
 ### Cart
-https://peer-2c0797dc.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://peer-2c0797dc.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://peer-2c0797dc.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://peer-2c0797dc.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://peer-2c0797dc.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://peer-2c0797dc.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Peer
 
 ### Category
-https://peer-2c0797dc.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Peer
 
 ### תודה - Peer
-https://peer-2c0797dc.zappy5.app/thank-you
+https://example.com/thank-you
 Peer - תודה - Peer
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://peer-2c0797dc.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://peer-2c0797dc.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://peer-2c0797dc.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Fashion Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://peer-2c0797dc.zappy5.app/sitemap.xml
-- Robots: https://peer-2c0797dc.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://peer-2c0797dc.zappy5.app/llms-full.txt
-- Products (JSON): https://peer-2c0797dc.zappy5.app/products.json
-- Products (Google Merchant RSS): https://peer-2c0797dc.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
